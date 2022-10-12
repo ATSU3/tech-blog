@@ -12,6 +12,6 @@ tags:
 
 ## パーツ
 
-![](/assets/blog/prusa/prusa_0.JPG)
+![](../assets/blog/prusa/prusa_0.JPG)
 
-![](/assets/blog/prusa/prusa_1.jpg)
+![](../assets/blog/prusa/prusa_1.jpg)
